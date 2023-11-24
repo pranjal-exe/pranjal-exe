@@ -24,10 +24,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,figma,bootstrap,react,nextjs,gatsby,materialui,styledcomponents,tailwind,express,vite,nodejs,firebase,appwrite,supabase,nestjs,postman,mongodb,mysql,postgres,sqlite,redis,netlify,vercel,py,go,docker,linux,git,github,md,vscode)](https://pranjal.site)
 
-<h3 align="left">Github Stats:</h3>
-
-[![Pranjal's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranjal-exe&show_icons=true&theme=dark&text_color=fff&border_color=2489F7FF&hide_title=true&show_owner=true)](https://github.com/pranjal-exe)
-
 ---
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&size=28&color=%2489F7FF&width=500&vCenter=true&lines=Thanks+for+visiting!+Nice+to+meet+you+😊!)](https://git.io/typing-svg)
